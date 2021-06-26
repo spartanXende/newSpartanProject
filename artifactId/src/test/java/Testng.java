@@ -79,6 +79,10 @@ public class Testng {
 	{
 	System.out.println("my third test case");
 	}
-
+	@Test
+	public void testCase4()
+	{
+	System.out.println("my forth test case");
+	}
 
 }
