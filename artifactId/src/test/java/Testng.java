@@ -82,7 +82,7 @@ public class Testng {
 	@Test
 	public void testCase4()
 	{
-	System.out.println("my forth test case to run file");
+	System.out.println("my forth test case");
 	}
 
 }
